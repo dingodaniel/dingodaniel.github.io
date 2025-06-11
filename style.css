@@ -1,0 +1,146 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+    max-width: 900px;
+    margin: 20px auto;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.unit-list {
+    list-style: none;
+    padding: 0;
+}
+
+.unit-list li {
+    margin-bottom: 10px;
+}
+
+.unit-list a {
+    display: block;
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.unit-list a:hover {
+    background-color: #0056b3;
+}
+
+.section {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.section h3 {
+    color: #4CAF50;
+    margin-top: 0;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+audio {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.dialogue-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.dialogue-item {
+    border-bottom: 1px dashed #eee;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+.dialogue-item:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.dialogue-number {
+    font-weight: bold;
+    color: #007bff;
+    margin-bottom: 5px;
+}
+
+.dialogue-number .context {
+    font-weight: normal;
+    font-size: 0.8em;
+    color: #666;
+    margin-left: 5px;
+}
+
+.dialogue-item .location {
+    font-style: italic;
+    font-size: 0.9em;
+    color: #888;
+    margin-bottom: 5px;
+}
+
+.japanese-dialogue {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    line-height: 1.6;
+    background-color: #e9ffe9;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.translations p {
+    font-size: 0.9em;
+    color: #555;
+    margin: 5px 0;
+    line-height: 1.4;
+}
+
+.translations .english {
+    color: #28a745; /* Green for English */
+}
+
+.translations .chinese {
+    color: #ffc107; /* Yellow/Orange for Chinese */
+}
+
+.translations .korean {
+    color: #17a2b8; /* Cyan for Korean */
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    margin-top: 20px;
+    background-color: #333;
+    color: white;
+    font-size: 0.8em;
+}
