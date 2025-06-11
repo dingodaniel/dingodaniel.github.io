@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function loadUnitData(unitNumber) {
     try {
-        const response = await fetch('data/data.json'); // Assicurati che il percorso sia corretto
+        const response = await fetch('data.json'); // Assicurati che il percorso sia corretto
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
