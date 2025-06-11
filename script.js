@@ -118,8 +118,6 @@ document.addEventListener('DOMContentLoaded', () => {
                         <p class="japanese-dialogue">${dialogue.japanese_dialogue.replace(/\n/g, '<br>')}</p>
                         <div class="translations">
                             <p class="english">${dialogue.translations.english.replace(/\n/g, '<br>')}</p>
-                            <p class="chinese">${dialogue.translations.chinese.replace(/\n/g, '<br>')}</p>
-                            <p class="korean">${dialogue.translations.korean.replace(/\n/g, '<br>')}</p>
                         </div>
                     </div>
                 `;
