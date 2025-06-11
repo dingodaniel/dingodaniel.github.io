@@ -58,15 +58,13 @@ document.addEventListener('DOMContentLoaded', () => {
     // Carica i dati dell'unità dal JSON
     async function loadUnitData(unitNumber) {
         try {
-            // Assicurati che il percorso sia corretto: 'data/data.json' se hai rinominato il file,
-            // altrimenti 'data/json.txt' se il nome originale è rimasto.
-            const response = await fetch('data/json.txt'); // 
+            const response = await fetch('data/json.txt'); // Assicurati che il percorso sia corretto (data/data.json o data/json.txt)
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
-            const data = await response.json(); // 
+            const data = await response.json();
             
-            const unitData = data.find(unit => unit.unit == unitNumber); // 
+            const unitData = data.find(unit => unit.unit == unitNumber);
 
             if (unitData) {
                 currentUnitData = unitData; // Salva i dati dell'unità per la navigazione audio
@@ -88,21 +86,30 @@ document.addEventListener('DOMContentLoaded', () => {
     // Rende il contenuto dell'unità nella pagina
     function renderUnitContent(unitData) {
         const unitContentDiv = document.getElementById('unit-content');
-        unitContentDiv.innerHTML = `<h2>Unità ${unitData.unit}</h2>`; // Imposta il titolo dell'unità
+        unitContentDiv.innerHTML = `<h2>Unità ${unitData.unit}</h2>`;
 
-        unitData.sections.forEach((section, index) => { // 
+        unitData.sections.forEach((section, index) => {
             const sectionDiv = document.createElement('div');
             sectionDiv.classList.add('section');
             
-            // MODIFICATO: Rimosso il player audio dalla sezione.
-            // Il player è ora globale. Aggiungiamo un link al titolo per riprodurre la sezione.
-            let sectionHtml = `<h3><a href="#" data-section-index="${index}">${section.section_number.replace('section ', 'Sezione ')}</a></h3>`; // 
+            // QUESTA PARTE È STATA RIMOssa o commentata:
+            // if (section.audio_track_name) {
+            //     sectionHtml += `
+            //         <audio controls>
+            //             <source src="audio/${section.audio_track_name}.mp3" type="audio/mpeg">
+            //             Il tuo browser non supporta l'elemento audio.
+            //         </audio>
+            //     `;
+            // }
+            // Invece, ora il player è globale e si controlla tramite JS.
+            // Aggiungiamo un link al titolo della sezione per riprodurre l'audio nel player globale.
+            let sectionHtml = `<h3><a href="#" data-section-index="${index}">${section.section_number.replace('section ', 'Sezione ')}</a></h3>`;
 
-            sectionHtml += `<div class="dialogue-list">`; // 
+            sectionHtml += `<div class="dialogue-list">`;
             
-            section.dialogues.forEach(dialogue => { // 
-                let context = dialogue.context ? `<span class="context">(${dialogue.context})</span>` : ''; // 
-                let location = dialogue.location ? `<p class="location">${dialogue.location}</p>` : ''; // 
+            section.dialogues.forEach(dialogue => {
+                let context = dialogue.context ? `<span class="context">(${dialogue.context})</span>` : '';
+                let location = dialogue.location ? `<p class="location">${dialogue.location}</p>` : '';
 
                 sectionHtml += `
                     <div class="dialogue-item">
@@ -117,9 +124,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                 `;
             });
-            sectionHtml += `</div>`; // Chiudi dialogue-list 
-            sectionDiv.innerHTML = sectionHtml; //
-            unitContentDiv.appendChild(sectionDiv); //
+            sectionHtml += `</div>`; // Chiudi dialogue-list
+            sectionDiv.innerHTML = sectionHtml;
+            unitContentDiv.appendChild(sectionDiv);
         });
 
         // Aggiungi event listeners ai titoli delle sezioni per riprodurre l'audio
@@ -133,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Inizializza il caricamento dei dati quando la pagina è pronta
-    if (unitNumber) { //
-        loadUnitData(unitNumber); //
+    if (unitNumber) {
+        loadUnitData(unitNumber);
     }
 });
