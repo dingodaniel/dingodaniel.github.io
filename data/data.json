@@ -251,14 +251,14 @@
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A:今、何時?\nC B:4時だよ。",
+            "japanese_dialogue": "A:今、何時?\nB:4時だよ。",
             "translations": {
               "english": "A: What time's it now?\nB: It's 4.",
               "chinese": "A:现在几点?\nB:4点。",
               "korean": "A: 지금 몇 시야?\nB: 4시야。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "3",
@@ -422,14 +422,14 @@
           },
           {
             "dialogue_number": "7",
-            "japanese_dialogue": "A: お名前は?\nFB: ペドロです。",
+            "japanese_dialogue": "A: お名前は?\nB: ペドロです。",
             "translations": {
               "english": "A: What is your name?\nB: I'm Pedro.",
               "chinese": "A:您的名字是?\nB:我叫佩德罗。",
               "korean": "A: 성함이 어떻게 되세요?\nB: 페드로입니다。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "8",
@@ -610,14 +610,14 @@
           },
           {
             "dialogue_number": "3",
-            "japanese_dialogue": "A: お国はどちらですか?\nFB: 韓国です。",
+            "japanese_dialogue": "A: お国はどちらですか?\nB: 韓国です。",
             "translations": {
               "english": "A: What country are you from?\nB: I am from Korea.",
               "chinese": "A:您是从哪个国家来的?\nB:韩国。",
               "korean": "A: 어느 나라에서 오셨어요?\nB: 한국입니다。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "4",
@@ -715,14 +715,14 @@
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A: シングルの部屋はいくらですか?\nFB: はい、一泊8000円でございます。",
+            "japanese_dialogue": "A: シングルの部屋はいくらですか?\nB: はい、一泊8000円でございます。",
             "translations": {
               "english": "A: How much for a single room?\nB: Oh, it is 8,000 yen per night.",
               "chinese": "A:单人间多少钱?\nB:8000日元一晚。",
               "korean": "A: 싱글 방은 얼마인가요?\nB: 네, 1박에 8000엔입니다。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "3",
@@ -819,14 +819,14 @@
         "dialogues": [
           {
             "dialogue_number": "1",
-            "japanese_dialogue": "A: ご家族は何人ですか?\nFB: 4人です。両親と兄と私です。",
+            "japanese_dialogue": "A: ご家族は何人ですか?\nB: 4人です。両親と兄と私です。",
             "translations": {
               "english": "How many people are there in\nyour family?\nB: There are 4 people. My par-\nents, my older brother and my-\nself.",
               "chinese": "A:你们家几口人呀?\nB:4口人。我爸妈,我哥,还有\n我。",
               "korean": "A: 가족관계는 어떻게 되세요?\nB: 네 명입니다. 부모님하고 오빠/형, 저\n입니다。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "2",
@@ -863,14 +863,14 @@
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A: いらっしゃいませ。お二人ですか?\nFB: いえ、あとからもう一人来ます。",
+            "japanese_dialogue": "A: いらっしゃいませ。お二人ですか?\nB: いえ、あとからもう一人来ます。",
             "translations": {
               "english": "A: Welcome. Is it the two of you?\nB: No, one other person is com-\ning.",
               "chinese": "A:欢迎光临!是两位吗?\nB:不是,一会儿还有一个人要过\n来。",
               "korean": "A: 어서 오세요. 두 분이신가요?\nB: 아니요. 이따가 한 명 더 올 거예요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "6",
@@ -1255,14 +1255,14 @@
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A: 田中さんの彼女ってどの人ですか?\nD B: ほら、あそこで電話してる人。",
+            "japanese_dialogue": "A: 田中さんの彼女ってどの人ですか?\nB: ほら、あそこで電話してる人。",
             "translations": {
               "english": "A: Who is Mr. Tanaka's girl-\nfriend?\nB: Look, the person on the phone\nover there.",
               "chinese": "A: 哪个是田中的女朋友啊?\nB:看那边,那个在打电话的就是",
               "korean": "A: 다나카 상 여자친구가 어느 분이에\n요?\nB: 저기 봐, 저기에서 전화하고 있는 사\n람이야。"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "3",
@@ -1415,14 +1415,14 @@
           },
           {
             "dialogue_number": "6",
-            "japanese_dialogue": "A: この新しいスマホ、\n前よりも写真がきれいにとれるんだ。\nC B: ヘー、そうなんだ! それはいいね。",
+            "japanese_dialogue": "A: この新しいスマホ、\n前よりも写真がきれいにとれるんだ。\nB: ヘー、そうなんだ! それはいいね。",
             "translations": {
               "english": "A: This new smartphone takes\nsharper photos than my last\none.\nB: Really, is that right! That's\ngreat, isn't it.",
               "chinese": "A:这个新手机,拍照比之前那个\n手机清楚诶。\nB:这样啊!这还挺不错的!",
               "korean": "A: 이 새 스마트폰은 이전 거보다 사진\n이 잘 나와。\nB: 오~ 그렇구나! 좋네。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "7",
@@ -1509,14 +1509,14 @@
           },
           {
             "dialogue_number": "4",
-            "japanese_dialogue": "A: 日本の生活はどう? もうなれた?\nD B:ええ。納豆も食べられるようになりました。",
+            "japanese_dialogue": "A: 日本の生活はどう? もうなれた?\nB:ええ。納豆も食べられるようになりました。",
             "translations": {
               "english": "How's your life in Japan? Got-\nten used to it?\nB:\nYes. I can even eat natto, the\nfermented soy bean dish.",
               "chinese": "A:在日本过得怎么样?还习惯吗?\nB:已经习惯了。连纳豆也能吃下\n去了。",
               "korean": "A: 일본 생활은 어때? 이제 적응됐니?\nB: 네. 낫또도 먹을 수 있게 됐어요。"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "5",
@@ -1553,25 +1553,25 @@
           },
           {
             "dialogue_number": "8",
-            "japanese_dialogue": "A:ねー、もう宿題した?\nC B: ううん。土日にするつもり。",
+            "japanese_dialogue": "A:ねー、もう宿題した?\nB: ううん。土日にするつもり。",
             "translations": {
               "english": "BA: Say, did you do your home-\nwork?\nB:\nNah. I'll do it on Saturday and\nSunday.",
               "chinese": "A:那什么,你作业做了吗?\nB:还没。我打算星期六做",
               "korean": "A: 너 숙제했어?\nB: 아니. 주말에 하려고。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "9",
-            "japanese_dialogue": "A: 山田さんはどちらにお住まいですか?\nFB: この近所に住んでいます。すぐそこです。",
+            "japanese_dialogue": "A: 山田さんはどちらにお住まいですか?\nB: この近所に住んでいます。すぐそこです。",
             "translations": {
               "english": "Mr. Yamada, where do you\nlive?\nB:\nI live near here. It is just over\nthere.",
               "chinese": "A:山田先生你住在哪里呀?\nB:我就住在附近。就在那边。",
               "korean": "A: 야마다 상은 댁이 어디세요?\nB: 이 근처에 살아요. 가까워요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "10",
@@ -1603,14 +1603,14 @@
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A: 木村先生って、どんな人だっけ?\nC B: ほら、めがねかけてて、背が高い先生だよ。",
+            "japanese_dialogue": "A: 木村先生って、どんな人だっけ?\nB: ほら、めがねかけてて、背が高い先生だよ。",
             "translations": {
               "english": "A: What kind of person is profes-\nsor Kimura again?\nB: You know, s/he's tall and has\nglasses.",
               "chinese": "A: 木村老师,长什么样来着?\nB:就是那个戴着眼镜,高个子的\n老师呀!",
               "korean": "A: 기무라 선생님이 어떤 분이시지?\nB: 그 있잖아, 안경 쓰시고 키크신 선생\n님 말이야。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "3",
@@ -1636,14 +1636,14 @@
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A: 見て、この写真。\nC B: あ~、なつかしいね。",
+            "japanese_dialogue": "A: 見て、この写真。\nB: あ~、なつかしいね。",
             "translations": {
               "english": "A: Hey, look at this picture.\nB: Oh, that takes you back,\ndoesn't it.",
               "chinese": "A:快看这张照片\nB:啊~好怀念啊",
               "korean": "A: 봐봐, 이 사진。\nB: 와~ 옛날 생각난다。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "6",
@@ -1730,14 +1730,14 @@
           },
           {
             "dialogue_number": "3",
-            "japanese_dialogue": "A: 来週の土曜、映画に行くんですけど、一緒に行きませんか?\nD B:あ、ごめん。土曜日は用事があって･･･。",
+            "japanese_dialogue": "A: 来週の土曜、映画に行くんですけど、一緒に行きませんか?\nB:あ、ごめん。土曜日は用事があって･･･。",
             "translations": {
               "english": "A: I'm going to a movie next Sat-\nurday; would you like to go\nwith?\nB:\nOh, I'm sorry. I have some-\nthing on Saturday.",
               "chinese": "A:下星期六我想去看电影。要一\n起去吗?\nB:啊,抱歉。我星期六有事。",
               "korean": "A: 다음 주 토요일에 영화 보러 갈 건데\n같이 안 가실래요?\nB: 아 미안한데 토요일에는 볼일이 있어\n서…。"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "4",
@@ -1752,14 +1752,14 @@
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A: 実は昨日ね、メイさんとデートしたんだ。\nC B:え~、マジで?",
+            "japanese_dialogue": "A: 実は昨日ね、メイさんとデートしたんだ。\nB:え~、マジで?",
             "translations": {
               "english": "A: Actually, I had a date yester-\nday with May.\nB: Wow...are you serious?",
               "chinese": "A:其实,我昨天的和梅约会去了。\nB:诶!?真的假的?",
               "korean": "A: 실은 있잖아. 어제 메이 상이랑 데이\n트 했거든。\nB: 에, 진짜?"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "6",
@@ -1785,14 +1785,14 @@
           },
           {
             "dialogue_number": "8",
-            "japanese_dialogue": "A: あれ? この時計、合ってる?\nC B:うん、合ってるよ。私のと同じ時間だよ。",
+            "japanese_dialogue": "A: あれ? この時計、合ってる?\nB:うん、合ってるよ。私のと同じ時間だよ。",
             "translations": {
               "english": "A: What the...? Is the time on this\nwatch accurate?\nB: Yeah, it's on time. I have the\nsame time.",
               "chinese": "A:咦?这个钟准吗?\nB:嗯,准的。和我的表一样的。",
               "korean": "A: 어? 이 시계 맞아?\nB: 어 잘 맞는데. 내 거랑 시간이 같은데。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "9",
@@ -1973,14 +1973,14 @@
           },
           {
             "dialogue_number": "4",
-            "japanese_dialogue": "A: パクチー食べられる?\nC B: いや、ちょっと、あの匂いが苦手で。",
+            "japanese_dialogue": "A: パクチー食べられる?\nB: いや、ちょっと、あの匂いが苦手で。",
             "translations": {
               "english": "A: Do you like cilantro?\nB: Nah, I don't much care for its\nsmell.",
               "chinese": "A:你吃香菜吗?\nB:不吃,不太喜欢那个气味",
               "korean": "A: 고수 먹을 줄 알아?\nB: 아니. 좀 냄새가 싫어서。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "5",
@@ -2161,14 +2161,14 @@
           },
           {
             "dialogue_number": "4",
-            "japanese_dialogue": "A:今週末の予定、何かある?\nC B: ううん、特にないよ。\nA: よかったら、ボルダリング行かない?\nB:うん。久しぶりにいいね。",
+            "japanese_dialogue": "A:今週末の予定、何かある?\nB: ううん、特にないよ。\nA: よかったら、ボルダリング行かない?\nB:うん。久しぶりにいいね。",
             "translations": {
               "english": "A: Do you have anything planned\nfor the weekend?\nB: No, nothing special.\nA: If it's of interest, why don't\nwe go bouldering?\nB: Yeah. It's been awhile, hasn't\nit.",
               "chinese": "A:你这个周末有什么安排吗?\nB:没有,没什么特别的安排。\nA:要不要一起去攀岩?\nB:可以,好久没去了。",
               "korean": "A: 이번 주말에 예정 있어?\nB: 아니, 특별히 없는데。\nA: 그럼 같이 볼더링 하러 안 갈래?\nB: 그래. 오랜만에 하는 것도 좋지。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "5",
@@ -2216,14 +2216,14 @@
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A: ホテル予約してある?\nCB:うん。昨日しといたよ。",
+            "japanese_dialogue": "A: ホテル予約してある?\nB:うん。昨日しといたよ。",
             "translations": {
               "english": "2 A: Have you booked a hotel?\nB: Yes. I did it yesterday.",
               "chinese": "A:酒店预约好了吗?\nB:嗯,昨天就约好了。",
               "korean": "A: 호텔 예약해 놨어?\nB: 웅, 어제 해 놨어。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "3",
@@ -2321,25 +2321,25 @@
         "dialogues": [
           {
             "dialogue_number": "1",
-            "japanese_dialogue": "A: 袋は有料ですが、お入れしますか?\nFB: いえ、そのままで結構です。",
+            "japanese_dialogue": "A: 袋は有料ですが、お入れしますか?\nB: いえ、そのままで結構です。",
             "translations": {
               "english": "A: We have to charge you for the\nbag, but shall I put them in\none?\nB:\nNo, as-is is fine.",
               "chinese": "A:袋子是收费的,需要袋子吗?\nB:不用,就这样给我就好了。",
               "korean": "A: 비닐봉지는 유료인데 넣어드릴까요?\nB: 아뇨, 그냥 주세요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A:来週、京都から友だちが来るんだ。\nCB: そうなんだ。楽しみだね。",
+            "japanese_dialogue": "A:来週、京都から友だちが来るんだ。\nB: そうなんだ。楽しみだね。",
             "translations": {
               "english": "A: My friend is coming from Kyo-\nto to visit me next week.\nB:\nIs that right? That will be fun.",
               "chinese": "A:下周我有个朋友要从京都过来。\nB:这样啊,那可真令人期待。",
               "korean": "A: 다음 주에 교토에서 친구가 올 거야。\nB: 그렇구나. 기다려지겠다。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "3",
@@ -2365,14 +2365,14 @@
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A:先生、\n大学合格しました。\nD B: えっ!\nすごい。おめでとう。",
+            "japanese_dialogue": "A:先生、\n大学合格しました。\nB: えっ!\nすごい。おめでとう。",
             "translations": {
               "english": "5 A: Professor, I passed the entrance\nexam to the university.\nB:\nWhat! Great. Congratulations!",
               "chinese": "A:老师,我考上大学了。\nB:诶!真厉害!恭喜你!",
               "korean": "A: 선생님, 대학교에 합격했어요..\nB: 에! 대단하다! 축하한다!"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "6",
@@ -2387,14 +2387,14 @@
           },
           {
             "dialogue_number": "7",
-            "japanese_dialogue": "A: 今日の午後、うかがってもよろしいですか?\nF B: はい、お待ちしています。",
+            "japanese_dialogue": "A: 今日の午後、うかがってもよろしいですか?\nB: はい、お待ちしています。",
             "translations": {
               "english": "A: May I visit your place this af-\nternoon?\nB: Sure, I will look forward to it.\n(lit. I will be waiting.)",
               "chinese": "A:我可以今天下午去叨扰吗?\nB:好的。恭候您来。",
               "korean": "A: 오늘 오후에 찾아봬도 될까요?\nB: 네 기다리고 있겠습니다。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "8",
@@ -2448,14 +2448,14 @@
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A: あー、雨が降ってきましたね。\nFB: 傘、お持ちですか? 良かったら、これお使いください。",
+            "japanese_dialogue": "A: あー、雨が降ってきましたね。\nB: 傘、お持ちですか? 良かったら、これお使いください。",
             "translations": {
               "english": "2 A: Oh no, it started raining.\nB: Do you have an umbrella?\nPlease use this if you'd like.",
               "chinese": "A:啊,开始下雨了。\nB:你带伞了吗?不介意的话,用\n这把吧?",
               "korean": "A: 아~ 비가 내리기 시작하네요。\nB: 우산 있으세요? 괜찮으시면 이거 쓰\n세요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "3",
@@ -2536,14 +2536,14 @@
           },
           {
             "dialogue_number": "10",
-            "japanese_dialogue": "A: 今度、ご飯でもいかがですか?\nFB:あ、いいですね。ぜひ。",
+            "japanese_dialogue": "A: 今度、ご飯でもいかがですか?\nB:あ、いいですね。ぜひ。",
             "translations": {
               "english": "10 A: How about going out for a\nmeal sometime?\nB: Oh, that sounds nice. By all\nmeans.",
               "chinese": "A:下次要不要一起去吃个饭什么\n的?\nB:哦,好啊!必须的。",
               "korean": "A: 다음에 (같이) 밥이라도 어떠세요?\nB: 네, 좋아요. 꼭 가요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           }
         ]
       },
@@ -2691,14 +2691,14 @@
           },
           {
             "dialogue_number": "3",
-            "japanese_dialogue": "A: あれ? 髪の毛切った? いいな、私も切ろうかな。\nD B: 短くするとすごく楽ですよ。おすすめです。",
+            "japanese_dialogue": "A: あれ? 髪の毛切った? いいな、私も切ろうかな。\nB: 短くするとすごく楽ですよ。おすすめです。",
             "translations": {
               "english": "A:\nHey, did you get a hair cut?\nNice, I should get one, too.\nB:\nShort hair is very easy to care\nfor. I recommend it.",
               "chinese": "A:咦?你剪头发了?真好,我要\n不也去剪一个吧。\nB:剪短了感觉浑身轻松。推荐你\n试试。",
               "korean": "A: 어? 머리 잘랐어? 좋겠다. 나도 자를\n까。\nB: 짧으면 되게 편해요. 추천해요。"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "4",
@@ -2768,14 +2768,14 @@
           },
           {
             "dialogue_number": "10",
-            "japanese_dialogue": "A: このチーズ、おいしいですね。どちらのですか?\nF B: こちらはフランス産でございます。",
+            "japanese_dialogue": "A: このチーズ、おいしいですね。どちらのですか?\nB: こちらはフランス産でございます。",
             "translations": {
               "english": "A: This cheese is delicious!\nWhere is it from?\nB: This is made in France.",
               "chinese": "A:这个芝士,真好吃。是哪儿产\n的啊?\nB:这个是法国产的",
               "korean": "A: 이치즈 맛있네요. 어디 건가요?\nB: 이쪽은 프랑스산입니다。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           }
         ]
       },
@@ -2923,25 +2923,25 @@
           },
           {
             "dialogue_number": "3",
-            "japanese_dialogue": "A:どうぞ、たくさん召し上がってくださいね。\nF B: ありがとうございます。遠慮なくいただきます。",
+            "japanese_dialogue": "A:どうぞ、たくさん召し上がってくださいね。\nB: ありがとうございます。遠慮なくいただきます。",
             "translations": {
               "english": "A:\nPlease have as much as you\nlike.\nB:\nThank you very much. I will\nnot stand on ceremony then.",
               "chinese": "A:来,多吃\n点\nB:谢谢,那我就不客气了。",
               "korean": "A: 많이 드세요。\nB: 고맙습니다. 감사히 잘 먹겠습니다"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "4",
-            "japanese_dialogue": "A: こちらのシュークリーム、保冷剤をおつけしますか?\nFB:あ、お願いします。",
+            "japanese_dialogue": "A: こちらのシュークリーム、保冷剤をおつけしますか?\nB:あ、お願いします。",
             "translations": {
               "english": "4\nA: Would you like some ice packs\nfor these puff creams?\nB: Oh, yes please.",
               "chinese": "A:这个泡芙需要放冰袋吗?\nB:哦,放吧。",
               "korean": "A: 슈크림에 아이스팩같이 넣어드릴까\n요?\nB: 네, 넣어주세요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "5",
@@ -3072,14 +3072,14 @@
           },
           {
             "dialogue_number": "6",
-            "japanese_dialogue": "A:ねー、僕、何だか山田さんに嫌われてるみたいなんだ。\nC B:え、どうして?\nA: 最近、全然話してくれないし、あいさつもしてくれないし･･･。\nB: なんか怒らせるようなことでも言ったんじゃない?",
+            "japanese_dialogue": "A:ねー、僕、何だか山田さんに嫌われてるみたいなんだ。\nB:え、どうして?\nA: 最近、全然話してくれないし、あいさつもしてくれないし･･･。\nB: なんか怒らせるようなことでも言ったんじゃない?",
             "translations": {
               "english": "A:\nYou know, it seems like Mr/s.\nYamada dislikes me.\nB: What, why?\nA: Because s/he doesn't talk to\nme, and doesn't even greet me.\nB: Isn't it the case that you said\nsomething to make him/her\nangry, no?",
               "chinese": "A:我问你啊,我是不是被山田讨\n厌了?\nB:诶?为什么这么说?\nA:他(她)最近完全不跟我说话,\n跟他(她)打招呼也不搭理\nB:是你说了什么惹他(她)生气\n的话了吧?",
               "korean": "A: 야, 야마다 상이 나 싫어하나 봐。\nB: 뭐? 왜?\nA: 요즘 말도 안 하고 인사도 안 해줘...\nB: 뭐 열받는 말 한거 아냐?"
             },
             "location": null,
-            "context": null
+            "context": "C"
           }
         ]
       },
@@ -3100,14 +3100,14 @@
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A: この度は、最優秀賞受賞おめでとうございます。\nFB: ありがとうございます。大変光栄です。\nA: 今回は5回目の挑戦だそうですが、ついに努力が実りましたね。\nB: はい。コツコツやってきて本当に良かったです。",
+            "japanese_dialogue": "A: この度は、最優秀賞受賞おめでとうございます。\nB: ありがとうございます。大変光栄です。\nA: 今回は5回目の挑戦だそうですが、ついに努力が実りましたね。\nB: はい。コツコツやってきて本当に良かったです。",
             "translations": {
               "english": "(ピアノコンクールで)\nCongratulations on receiving the\nhighest award this time.\nA:\nB:\nThank you very much. I am very\nhonored.\nA: So this is the 5th challenge you\ntook on, but your efforts finally\npaid off.\nB: Yes. I am truly glad that I kept\nworking at it.",
               "chinese": "(大赛上)\nA:恭喜你这次夺魁\nB:谢谢。太荣幸了。\nA:这次好像是你第5次挑战这个\n奖了吧?你的努力终于有结\n果了!\nB:是的。一直坚持努力没有放\n弃,真是太好了。",
               "korean": "(피아노 콩쿨에서)\nA: 이번에 최우수상 수상을 축하드립니\n다。\nB: 고맙습니다. 너무 영광입니다。\nA: 이번이 다섯 번째 도전이라고 하셨는\n데드디어 노력이 결실을 맺으셨네요。\nB: 네, 꾸준히 해오길 잘한 것 같습니다。"
             },
             "location": "ピアノコンクールで",
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "3",
@@ -3150,14 +3150,14 @@
         "dialogues": [
           {
             "dialogue_number": "1",
-            "japanese_dialogue": "A: あのー、プレゼント用の花束が欲しいんですけど･･･。\nFB: はい、プレゼント用ですね。お花は何になさいますか?\nA: 花のことよくわからないので、適当に作ってもらえますか?\nB: かしこまりました。ご予算はどのくらいでしょう。",
+            "japanese_dialogue": "A: あのー、プレゼント用の花束が欲しいんですけど･･･。\nB: はい、プレゼント用ですね。お花は何になさいますか?\nA: 花のことよくわからないので、適当に作ってもらえますか?\nB: かしこまりました。ご予算はどのくらいでしょう。",
             "translations": {
               "english": "A: Excuse me, I'd like a bouquet\nof flowers for a present...\nB: Sure, for the present. Which\nflowers would you like.\nA: 1 don't know much about flow-\ners, so would you make one for\nme?\nB: Certainly. What is your budget?",
               "chinese": "A:那个,我想买一束花送人。\nB:好的,送人的是吗?要什么\n花呢?\nA:花的话我不是很懂,你看着\n帮我包一束吧。\nB:好的。预算大概是多少呢?",
               "korean": "A: 저기요. 선물용으로 꽃다발이 필요한\n데요....\nB: 네, 선물용으로요. 꽃은 어떤 걸로 하\n시겠어요?\nA: 꽃은 잘 몰라서요.\n적당한 걸로 만들\n어 주시겠어요?\nB: 알겠습니다. 예산은 어느 정도이신가\n요?"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "2",
@@ -3172,14 +3172,14 @@
           },
           {
             "dialogue_number": "3",
-            "japanese_dialogue": "A: ご注文はお決まりですか?\nFB: はい。このヒレカツ定食、一つお願いします。ライス大盛りで。\nA:はい。ヒレカツ定食、お一つ。ライス大盛りですね。\nB:あ、キャベツも多めでお願いします。辛子はいりません。",
+            "japanese_dialogue": "A: ご注文はお決まりですか?\nB: はい。このヒレカツ定食、一つお願いします。ライス大盛りで。\nA:はい。ヒレカツ定食、お一つ。ライス大盛りですね。\nB:あ、キャベツも多めでお願いします。辛子はいりません。",
             "translations": {
               "english": "A: Have you decided your order?\nB: Yes. This pork cutlet, I'd like to\nhave one please. With a large\nportion of rice.\nA: Sure. One pork cutlet. With a\nlarge portion of rice, right?\nB: Oh, give a large portion of cab-\nbage as well. Without mustard,\nplease.",
               "chinese": "A:您想好点什么了吗?\nB:嗯。麻烦给我来一个炸猪排\n套餐。米饭要大份的。\nA:好的。一份炸猪排套餐,大\n份米饭。\nB:对了,包心菜放多一点,不\n要辣椒。",
               "korean": "A: 주문은 어떻게 하시겠습니까?\nB: 안심 돈가스 정식 하나 주세요. 밥은\n곱빼기로요。\nA: 네, 안심 돈가스 정식 하나. 밥은 곱\n빼기요。\nB: 네, 양배추도 많이 주세요. 겨자는 필\n요 없어요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "4",
@@ -3194,14 +3194,14 @@
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A: (ピンポン) あのー、下の階の佐藤ですけど･･･。\nFB: はい、お待ちください。(カチャ)あ、佐藤さん、こんにちは。\nA: こんにちは。あのー、上から泥水が飛んできて、うちの洗濯物にかかった\nんですけど･･･。ベランダのお掃除してましたか?\nB: わ~!\nご迷惑かけて申し訳ありません! 今すぐベランダを拭いて、後\nでお詫びにうかがいます。",
+            "japanese_dialogue": "A: (ピンポン) あのー、下の階の佐藤ですけど･･･。\nB: はい、お待ちください。(カチャ)あ、佐藤さん、こんにちは。\nA: こんにちは。あのー、上から泥水が飛んできて、うちの洗濯物にかかった\nんですけど･･･。ベランダのお掃除してましたか?\nB: わ~!\nご迷惑かけて申し訳ありません! 今すぐベランダを拭いて、後\nでお詫びにうかがいます。",
             "translations": {
               "english": "5 A: (Ding-Dong...door bell) Excuse\nme, I am Sato from the floor be-\nlow you...\nB: Yes, please wait a moment.\n(Click to open the door) Oh, hel-\nlo Mr. Sato.\nA: Hello.\nHmmm...some muddy\nwater from the floor above me\nsplashed all over my laundry.\nHave you been cleaning your\nveranda?\nB: Oh no! I am so sorry to have\ncaused you trouble!\nI will dry off\nmy veranda right now and come\nand apologize to you later.",
               "chinese": "A:(门铃声)那个,我是住在楼下\n的佐藤\nB:来了,稍等(开门声)啊,佐\n藤先生(小姐),你好。\nA:你好。那个,我晾着衣服,\n被上面滴下来的脏水溅到\n了…………………使您在打扫阳台吗?\nB:哎呀!真是抱歉,给您添麻\n烦了!我现在马上去把阳台\n擦干净。稍后就上门去找您\n正式赔礼道歉。",
               "korean": "A: (딩동) 저기, 아래층에 사는 사토라고\n합니다....\nB: 어머, 잠시만요. (문을 열며) 사토 상\n안녕하세요。\nA: 안녕하세요.\n저기...위에서 흙탕물이\n튀어서 우리 집 빨래에 떨어졌는데\n요. 베란다 청소 중이세요?\nB: 어머, 정말 죄송해요.\n지금 바로 베란\n다 청소하고, 이따가 사과하러 갈게\n요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           }
         ]
       }
@@ -3271,14 +3271,14 @@
           },
           {
             "dialogue_number": "6",
-            "japanese_dialogue": "A:今、私、駅に着きましたが、課長、どちらですか?\nD B:あ、向かってる途中。10分くらいで着くよ。着いたら連絡する。",
+            "japanese_dialogue": "A:今、私、駅に着きましたが、課長、どちらですか?\nB:あ、向かってる途中。10分くらいで着くよ。着いたら連絡する。",
             "translations": {
               "english": "A: I've just arrived at the station;\nboss, where are you?\nB: I'm headed there now. I'll be\nthere in 10 minutes. I'll con-\ntact you when I arrive.",
               "chinese": "A:我现在到车站了,课长您在哪\n里?\nB:我正在往那儿赶。再有10分钟\n就能到了。到了联系你。",
               "korean": "A: 지금 역에 도착했는데, 과장님은 어\n디세요?\nB: 아, 지금 가고 있는 중이야, 10분 뒤\n에 도착해, 도착하면 연락할게。"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "7",
@@ -3343,14 +3343,14 @@
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A: すみません、会計はこちらでいいんですか。\nFB: はい。順番にお伺いしていますので、そちらにお並びいただけますか。",
+            "japanese_dialogue": "A: すみません、会計はこちらでいいんですか。\nB: はい。順番にお伺いしていますので、そちらにお並びいただけますか。",
             "translations": {
               "english": "2 A: Can I pay here?\nB: Yes. But could you please\nstand in line there so we can\ngo in order?",
               "chinese": "A:不好意思,结账是在这里吗?\nB:是的。我们会依次为各位结账\n的。麻烦您先在那边排一下队。",
               "korean": "A: 저기요, 계산은 여기에서 하나요?\nB: 네. 순서대로 도와 드리겠습니다. 이\n쪽에서 기다려 주시겠어요?"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "3",
@@ -3398,14 +3398,14 @@
           },
           {
             "dialogue_number": "7",
-            "japanese_dialogue": "A: このLEDライト、\n百均なんだよ。信じられる?\nC B: すごい、\nこれ当たり。100円とは思えない!",
+            "japanese_dialogue": "A: このLEDライト、\n百均なんだよ。信じられる?\nB: すごい、\nこれ当たり。100円とは思えない!",
             "translations": {
               "english": "A: This LED light is from a 100-\nyen shop. Can you believe it?\nB: Wow, what a bargain. I can't\nbelieve it's just 100 yen!?",
               "chinese": "A:这个LED灯是百元店买的你信\n吗?\nB:哇,这可真是挖到宝了。完全\n不像是只要100日元的东西。",
               "korean": "A: 이 LED 전등 100엔이래. 믿어져?\nB: 대박인데? 100엔인 줄 모르겠어!"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "8",
@@ -3420,14 +3420,14 @@
           },
           {
             "dialogue_number": "9",
-            "japanese_dialogue": "A: お客様、あちらのセルフレジもご利用になれますので･･･。\nFB: ありがとうございます。そうします。",
+            "japanese_dialogue": "A: お客様、あちらのセルフレジもご利用になれますので･･･。\nB: ありがとうございます。そうします。",
             "translations": {
               "english": "A: Sir, you can also use the\nself-checkout over there.\nB: Thank you very much. I'll use\nit.",
               "chinese": "A:客人您好,那边的自助收银台\n也可以结账的。\nB:谢谢,我去那里吧。",
               "korean": "A: 고객님, 저쪽에 있는 셀프계산대도\n이용 가능합니다。\nB: 고맙습니다. 그렇게 할게요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "10",
@@ -3481,47 +3481,47 @@
           },
           {
             "dialogue_number": "4",
-            "japanese_dialogue": "A: なんだか、北村さん、最近怒りっぽくないですか。\nD B: うん、きっとストレスがたまってるんだよ。",
+            "japanese_dialogue": "A: なんだか、北村さん、最近怒りっぽくないですか。\nB: うん、きっとストレスがたまってるんだよ。",
             "translations": {
               "english": "Don't you think Mr/s. Kita-\nmura is cranky lately for some\nreason?\nB:\nYeah, s/he must be stressed\nout.",
               "chinese": "A:总感觉北村最近很易怒啊\nB:嗯,肯定是压力太大了。",
               "korean": "A: 이유는 모르겠는데 기타무라 상 요즘\n자주 화를 내지 않아요?\nB: 맞아. 스트레스가 쌓여있는 게 분명\n해。"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A: あー、よく食べた。もう食べられない。\nCB: 本当!\nこれで寝ちゃえたらいいのに。",
+            "japanese_dialogue": "A: あー、よく食べた。もう食べられない。\nB: 本当!\nこれで寝ちゃえたらいいのに。",
             "translations": {
               "english": "Ah, I had a lot to eat. I couldn't\neat a thing more.\nB: I know! It would be nice just\nto fall asleep.",
               "chinese": "A:啊,吃了好多啊。已经吃不下\n了。\nB:是啊,如果能直接就这么睡一\n觉就好了。",
               "korean": "A: 아~잘 먹었다. 더는 못 먹겠어。\nB: 진짜. 이대로 자 버렸으면 좋겠다。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "6",
-            "japanese_dialogue": "A: あのー、10分くらい前にカレー注文したんですけど･･･。\nFB:あ、申し訳ありません。ただ今、確認してまいります。",
+            "japanese_dialogue": "A: あのー、10分くらい前にカレー注文したんですけど･･･。\nB:あ、申し訳ありません。ただ今、確認してまいります。",
             "translations": {
               "english": "A:\nSay, I ordered some curry\nabout 10 minutes ago...\nB: Oh, I'm sorry. I'll go check on\nit right away.",
               "chinese": "A:那个,我在10分钟前点了一份\n咖喱,还没送过来。\nB:啊,抱歉。我马上去确认一下。",
               "korean": "A: 저기요. 10분쯤 전에 카레를 주문했\n는데요....\nB: 죄송합니다. 지금 바로 확인해 보겠\n습니다。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "7",
-            "japanese_dialogue": "A: あのー、このカレー、髪の毛が入ってるんですけど･･･。\nFB:あ、申し訳ございません。新しいものとお取替えします。",
+            "japanese_dialogue": "A: あのー、このカレー、髪の毛が入ってるんですけど･･･。\nB:あ、申し訳ございません。新しいものとお取替えします。",
             "translations": {
               "english": "A:\nSay, this curry has some hair\nin it...\nB: Oh, I'm sorry. I'll replace it\nwith a fresh dish.",
               "chinese": "A:那个,这个咖喱里面有头发。\nB:啊,抱歉。我马上给您换",
               "korean": "A: 저기요. 이 카레에 머리카락이 들어\n있는데요.....\nB: 죄송합니다. 새 걸로 바꿔드리겠습니\n다。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "8",
@@ -3536,25 +3536,25 @@
           },
           {
             "dialogue_number": "9",
-            "japanese_dialogue": "A: あのー、すみません。このセーター、返品できますか。\nFB: レシートをお持ちであれば、大丈夫ですよ。",
+            "japanese_dialogue": "A: あのー、すみません。このセーター、返品できますか。\nB: レシートをお持ちであれば、大丈夫ですよ。",
             "translations": {
               "english": "9\nA: Ummm, excuse me. Can I re-\nturn this sweater?\nB: If you have the receipt, it's no\nproblem.",
               "chinese": "A:那个,不好意思问一下,这件\n毛衣可以退吗?\nB:您有小票的话就可以退。",
               "korean": "A: 저기요. 죄송한데 이 스웨터를 반품\n할 수 있을까요?\nB: 영수증을 가지고 계시면 가능합니다。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "10",
-            "japanese_dialogue": "A: お客様、では、お代をお返しいたします。\nF B: あ、お願いします。",
+            "japanese_dialogue": "A: お客様、では、お代をお返しいたします。\nB: あ、お願いします。",
             "translations": {
               "english": "10A: Sir, we will refund your mon-\ney.\nB: Oh, thank you.",
               "chinese": "A:客人您好,这就给您退款。\nB:麻烦了。",
               "korean": "A: 고객님, 그럼 금액을 돌려드리겠습니\n다。\nB: 부탁드려요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           }
         ]
       },
@@ -3575,14 +3575,14 @@
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A:ねー、貧乏ゆすり、やめて。\nCB:あ、ごめん、してた?",
+            "japanese_dialogue": "A:ねー、貧乏ゆすり、やめて。\nB:あ、ごめん、してた?",
             "translations": {
               "english": "2 A: Hey, stop bouncing your leg.\nB: Oh, I'm sorry, was I doing\nthat?",
               "chinese": "A:哎呀,你别抖腿了\nB:啊,抱歉,我抖腿了?",
               "korean": "A: 야 다리 좀 그만 떨어。\nB: 아, 미안. 내가 떨었어?"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "3",
@@ -3619,14 +3619,14 @@
           },
           {
             "dialogue_number": "6",
-            "japanese_dialogue": "A:あ、シャツのえり、立ってるよ。\nC B:あ、本当?\nどうもありがとう。",
+            "japanese_dialogue": "A:あ、シャツのえり、立ってるよ。\nB:あ、本当?\nどうもありがとう。",
             "translations": {
               "english": "A: Oh, the collar of your shirt is\nup.\nB: Oh, really? Thanks a lot.",
               "chinese": "A:啊,你衬衫的领子翘起来了\nB:啊,真的吗?谢谢。",
               "korean": "A: 아, 셔츠 깃이 올라가 있어。\nB: 진짜? 고마워。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "7",
@@ -3641,25 +3641,25 @@
           },
           {
             "dialogue_number": "8",
-            "japanese_dialogue": "A: 今日、寝過ごしてびっくりしたよ。起きたらもう8時なんだもん。\nC B:  、でも、よく間に合ったねー。",
+            "japanese_dialogue": "A: 今日、寝過ごしてびっくりしたよ。起きたらもう8時なんだもん。\nB:  、でも、よく間に合ったねー。",
             "translations": {
               "english": "A: I was shocked that I overslept\ntoday. It was already 8 o'clock\nwhen I woke up.\nB: Wow, but you made it on time\nanyway.",
               "chinese": "A:今天发现睡过头的时候吓了一\n跳。起来发现已经8点了。\nB:还真亏你能赶上",
               "korean": "A: 오늘 늦잠 자서 깜짝 놀랐어. 일어났\n더니 벌써 8시인 거야。\nB: 오~ 그래도 제시간에 왔네。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "9",
-            "japanese_dialogue": "A:起立、気をつけ、礼!\nF B: おはようございま\n。す",
+            "japanese_dialogue": "A:起立、気をつけ、礼!\nB: おはようございま\n。す",
             "translations": {
               "english": "A: Stand up, attention, bow!\nB: Good morning.",
               "chinese": "A:起立,注意,行礼!\nB:早上好。",
               "korean": "A: 기립, 차렷, 인사!\nB: 안녕하세요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "10",
@@ -3724,25 +3724,25 @@
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A: 携帯電話の番号とメールアドレスが変わりました。\nD B:そうなんだ。じゃ、新しいの教えて。",
+            "japanese_dialogue": "A: 携帯電話の番号とメールアドレスが変わりました。\nB:そうなんだ。じゃ、新しいの教えて。",
             "translations": {
               "english": "A: Both the number and mail ad-\ndress of my cell phone have\nchanged.\nB: Is that right. Well, tell me the\nnew one.",
               "chinese": "A:我换了新的手机号码和邮箱\nB:这样啊,那,把新的告诉我\n吧。",
               "korean": "A: 휴대폰 번호하고 메일 주소가 바뀌었\n어요。\nB: 그래? 그럼 새거 가르쳐 줘。"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "6",
-            "japanese_dialogue": "A: ワイヤレスイヤホンを買いたいんだけど、どれがいいかな。\nD B: じゃー、ネットで人気おすすめランキング調べてみたら?",
+            "japanese_dialogue": "A: ワイヤレスイヤホンを買いたいんだけど、どれがいいかな。\nB: じゃー、ネットで人気おすすめランキング調べてみたら?",
             "translations": {
               "english": "A:I want to buy a wireless ear-\nphone, but I wonder which one\nis the best.\nB: Why not check out the popular-\nity rankings on the Internet?",
               "chinese": "A:我想买无线耳机,买哪款好\n呢?\nB:查查看网上的人气榜单?",
               "korean": "A: 블루투스 이어폰을 사고 싶은데 어떤\n게 좋을까?\nB: 그럼, 인터넷에서 추천 순으로 한 번\n봐봐。"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "7",
@@ -3807,25 +3807,25 @@
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A: 引越しの当日は、田中君が手伝ってくれるって。\nC B:あ、本当、よかった。助かるね。",
+            "japanese_dialogue": "A: 引越しの当日は、田中君が手伝ってくれるって。\nB:あ、本当、よかった。助かるね。",
             "translations": {
               "english": "Mr/s. Tanaka said s/he would\nhelp on moving day.\nB:\nOh, is that right, what a relief.\nThat'll be a big help.",
               "chinese": "A:搬家那天,田中说会来帮忙的。\nB:啊,真的吗?太好了!帮大忙\n了。",
               "korean": "A: 이사 당일은 다나카 군이 도와 준대。\nB: 그래? 잘됐다. 고맙네。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "3",
-            "japanese_dialogue": "A: この前の大会、健太、4位だって。\nC B:あ、本当~~。あいつにしたら、まあ、よくやったじゃん?",
+            "japanese_dialogue": "A: この前の大会、健太、4位だって。\nB:あ、本当~~。あいつにしたら、まあ、よくやったじゃん?",
             "translations": {
               "english": "Kenta was 4th in the recent\ntournament.\nB:\nOh, really? For him, that's a\nreally good job, isn't it?",
               "chinese": "A:之前的大赛,健太拿了第4名。\nB:真的吗?以他的水平来说,应\n该算是发挥得挺不错的了吧?",
               "korean": "A: 이 앞에 대회에서 켄타가 4등 했대。\nB: 아 진짜? 개 실력으로 보면 나름 잘\n한 거 아니냐?"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "4",
@@ -3840,14 +3840,14 @@
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A: このチーズ、結構いけるね。\nCB:お、そうだろ!\nデパ地下で試食したらおいしかったんだよ。",
+            "japanese_dialogue": "A: このチーズ、結構いけるね。\nB:お、そうだろ!\nデパ地下で試食したらおいしかったんだよ。",
             "translations": {
               "english": "A: This cheese is really good.\nB: Oh, I bet it is! I tried it in the\nbasement of a department store\nand it was delicious.",
               "chinese": "A:这个芝士,可以啊!\nB:对吧!我在百货店地下层试吃\n的时候就觉得好好吃。",
               "korean": "A: 이 치즈, 상당히 괜찮은데?\nB: 그치? 백화점 식품관에서 시식해 보\n니까 맛있더라고。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "6",
@@ -3862,14 +3862,14 @@
           },
           {
             "dialogue_number": "7",
-            "japanese_dialogue": "A: もうすぐ決算の発表ですね。\nD B:うん、準備で目が回りそうだよ。",
+            "japanese_dialogue": "A: もうすぐ決算の発表ですね。\nB:うん、準備で目が回りそうだよ。",
             "translations": {
               "english": "7A\n: The accounts are about to be\nreleased, right?\nB: Yeah, my head is spinning just\ngetting them ready.",
               "chinese": "A:马上就要到结账清算了的发表了\nB:嗯,为了准备这个我真是快忙\n晕了。",
               "korean": "A: 얼마 후에 결산 발표네요。\nB: 응, 그 준비 때문에 눈이 돌아갈 것 같\n아。"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "8",
@@ -3884,14 +3884,14 @@
           },
           {
             "dialogue_number": "9",
-            "japanese_dialogue": "A: 明日は仕事休みだから、ドライブでも行く?\nD B:うん。行く! 行く!",
+            "japanese_dialogue": "A: 明日は仕事休みだから、ドライブでも行く?\nB:うん。行く! 行く!",
             "translations": {
               "english": "A: Tomorrow is a day off, so shall\nwe go for a drive or some-\nthing?\nB: Yeah. Let's go! Let's go!",
               "chinese": "A:明天不上班,要不要去兜风?\nB:嗯!去去去!",
               "korean": "A: 내일 쉬는 날이니까 드라이브라도 갈\n까?\nB: 응. 갈래! 갈래!"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "10",
@@ -3945,25 +3945,25 @@
           },
           {
             "dialogue_number": "4",
-            "japanese_dialogue": "A: すみません。この本、探しているんですけど。\nFB: 申し訳ございません。こちらではお取り扱いがございません。お取り寄せ\nに1週間ほどかかりますが。",
+            "japanese_dialogue": "A: すみません。この本、探しているんですけど。\nB: 申し訳ございません。こちらではお取り扱いがございません。お取り寄せ\nに1週間ほどかかりますが。",
             "translations": {
               "english": ": I'm sorry. I am looking for this\nbook.\nBA\nB: Oh, I'm sorry. We don't carry\nthat here. It would take about\n1 week to order it in for you.",
               "chinese": "A:不好意思打扰一下,我想找这\n本书。\nB:抱歉,我们这边没有这本书。\n如果您需要订购的话,大约需\n要1个礼拜的时间。",
               "korean": "A: 저기요. 이 책을 찾고 있는데요。\nB: 죄송한데 이 책은 취급하지 않고요。\n주문하시면 일주일 정도 걸립니다。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A:彼女、目がくりくりしていて、かわいいね。\nCB:え、彼女みたいなタイプが好きなの?",
+            "japanese_dialogue": "A:彼女、目がくりくりしていて、かわいいね。\nB:え、彼女みたいなタイプが好きなの?",
             "translations": {
               "english": "A: That girl, she's so cute with\nher big, expressive eyes.\nB: Oh, is she your type of wom-\nan?",
               "chinese": "A:她眼睛大大的圆圆的,好可爱\nB:诶?你喜欢这种类型的啊?",
               "korean": "A: 그 여자애/여자분 눈이 동글동글하\n고 예쁘네。\nB: 그런 타입이 마음에 들어?"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "6",
@@ -3978,14 +3978,14 @@
           },
           {
             "dialogue_number": "7",
-            "japanese_dialogue": "A: バケツの中の水、捨てておいて。\nC B: はーい、お母さん。じゃー、庭にまいておくね。",
+            "japanese_dialogue": "A: バケツの中の水、捨てておいて。\nB: はーい、お母さん。じゃー、庭にまいておくね。",
             "translations": {
               "english": "A: Toss out the water in the buck-\net.\nB: Yes, mum. I'll sprinkle it\naround the garden, then.",
               "chinese": "A:你去把水桶里的水倒了吧。\nB:好的,妈妈。那我倒院子里了\n啊。",
               "korean": "A: 양동이에 있는 물 좀 버리고 와。\nB: 알았어요. 엄마, 그럼 마당에 뿌리고\n올게요。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "8",
@@ -4039,14 +4039,14 @@
           },
           {
             "dialogue_number": "3",
-            "japanese_dialogue": "A: すっかり遅くなっちゃったね。終電に間に合う?\nC B: ぎりぎり\nかな。急ごう!",
+            "japanese_dialogue": "A: すっかり遅くなっちゃったね。終電に間に合う?\nB: ぎりぎり\nかな。急ごう!",
             "translations": {
               "english": "3\nA: It's really gotten late, hasn't it?\nWill we make the last train?\nB: It'll probably be touch and go.\nLet's hurry!",
               "chinese": "A:已经这么晚了,还赶得上末\n班车吗?\nB:有点悬。赶紧吧!",
               "korean": "A: 완전 늦은 시간이네. 막차 탈 수 있을\n까?\nB: 아슬아슬하게? 서두르자!"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "4",
@@ -4094,14 +4094,14 @@
           },
           {
             "dialogue_number": "8",
-            "japanese_dialogue": "A: 何かご意見があれば、遠慮なくおっしゃってください。\nFB: 今のところ、特にありません。",
+            "japanese_dialogue": "A: 何かご意見があれば、遠慮なくおっしゃってください。\nB: 今のところ、特にありません。",
             "translations": {
               "english": "A: If you have a comment, please\nfeel free to tell me.\nB: At this point, nothing in partic-\nular to say.",
               "chinese": "A:如果有什么想法的话,请说\n出来,不需要有所顾忌。\nB:目前暂时没有。",
               "korean": "A: 의견이 있으시면 편하게 말씀해 주세\n요。\nB: 아직은 괜찮습니다。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "9",
@@ -4177,14 +4177,14 @@
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A:何、この行列?\nD B: パンケーキの店ですよ、昨日、オープンしたみたいですね。\nA: あー、パンケーキね。まだブーム続いてるの?\nB:ええ、インスタ映えするんで、女子には根強い人気ですよ。",
+            "japanese_dialogue": "A:何、この行列?\nB: パンケーキの店ですよ、昨日、オープンしたみたいですね。\nA: あー、パンケーキね。まだブーム続いてるの?\nB:ええ、インスタ映えするんで、女子には根強い人気ですよ。",
             "translations": {
               "english": "5A: What's with this line?\nB: It's a pancake restaurant. I hear\nthey just opened yesterday.\nA: Oh, pancakes, huh? That boom\nis still going?\nB: Yes, it looks good on Insta-\ngram, so it's really popular\nwith girls.",
               "chinese": "A:这是在排什么队啊?\nB:是煎饼店啦,好像昨天刚开张。\nA:啊,煎饼啊。风头还没过去吗?\nB:是啊,因为照片上传到Instagr\nam之后很好看,所以深受女孩\n子们的欢迎啊。",
               "korean": "A: 이 줄은 뭐지?\nB: 팬케이크 가게네요. 어제 오픈한 것\n같아요。\nA: 아~팬케이크구나. 아직 인기가 있는\n거야?\nB: 네. 인스타 감성이라 여자분들한테\n인기가 있죠。"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "6",
@@ -4365,14 +4365,14 @@
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A: 低カロリーで健康にいい食べ物ってなんでしょうか?\nD BB: そうだな〜、こんにゃくとか豆腐とか･･･。\nA: なんだか、値段の安いものばかりですね。\nB: そうそう、ぜいたくしなくても健康になれるんだよね。",
+            "japanese_dialogue": "A: 低カロリーで健康にいい食べ物ってなんでしょうか?\nB: そうだな〜、こんにゃくとか豆腐とか･･･。\nA: なんだか、値段の安いものばかりですね。\nB: そうそう、ぜいたくしなくても健康になれるんだよね。",
             "translations": {
               "english": "A: What food is low in calories but\ngood for your health?\nB: Well, let me think... Konnyaku\nand tofu, etc...\nA: Sounds like they are all cheap\nthings.\nB: That's right, you can be healthy\nwithout spending a lot.",
               "chinese": "A:低热量又健康的食物有哪些?\nB:有哪些呢……………………魔芋啊豆腐啊\n什么的。\nA:感觉都是些便宜的东西呢!\nB:对对对,不用花大价钱也可\n以拥有健康。",
               "korean": "A: 저칼로리에 건강에 좋은 음식이 뭐가\n있을까요?\nB: 어디보자... 곤약같은 거나 두부같은\n거나....\nA: 가격이 싼 게 많네요。\nB: 맞아.\n비싼거 안 먹어도 건강해질 수\n있지。"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "3",
@@ -4426,14 +4426,14 @@
         "dialogues": [
           {
             "dialogue_number": "1",
-            "japanese_dialogue": "A:はい。さくらファミリー株式会社、林でございます。\nFB: お世話になっております。未来株式会社の高橋です。\nA: お世話になっております。\nB: 総務部の山本部長様、いらっしゃいますでしょうか。",
+            "japanese_dialogue": "A:はい。さくらファミリー株式会社、林でございます。\nB: お世話になっております。未来株式会社の高橋です。\nA: お世話になっております。\nB: 総務部の山本部長様、いらっしゃいますでしょうか。",
             "translations": {
               "english": "(A\nPhone Call at Work)\nA: Hello. This is Hayashi of the\nSakura Family Company.\nB:\nHello, how are you? (lit. we\nhave been in your care.) This is\nTakahashi of Mirai Corporation.\nA:\nFine, thank you. And you? (lit.\nWe have been in your care.)\nB:\nIs Manager Yamamoto of the\nGeneral Affairs Department\navailable?",
               "chinese": "(工作中的电话)\nA:\n你好,这里是Sakura Family股\n份有限公司。我是林。\n承蒙关照,我是未来股份有限\n公司的高桥。\nB:\nA:承蒙关照。\n请问总务部的山本部长在吗?\nB:",
               "korean": "(직장에서의 전위)\nA: 여보세요. 사쿠라 패밀리 주식회사,\n하야시입니다。\nB: 안녕하세요. 미라이 주식회사 다카하\n시입니다。\nA: 네, 수고 많으십니다。\nB: 총무부 야마모토 부장님 계십니까?"
             },
             "location": "仕事中の電話",
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "2",
@@ -4470,14 +4470,14 @@
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A:参加者名簿の作成、明日までにお願いできる?\nD B: あ、すみません。申請書の締め切りが明日までで、明後日でよければ。\nA: 忙しそうだね。じゃ、いいや。他の人に頼むよ。\nB: すみません。今は猫の手も借りたいぐらいなんです。",
+            "japanese_dialogue": "A:参加者名簿の作成、明日までにお願いできる?\nB: あ、すみません。申請書の締め切りが明日までで、明後日でよければ。\nA: 忙しそうだね。じゃ、いいや。他の人に頼むよ。\nB: すみません。今は猫の手も借りたいぐらいなんです。",
             "translations": {
               "english": "5 A: Can I ask you to create a list\nof participants by tomorrow?\nB: Oh, I am sorry. The deadline\nfor the application is tomor-\nrow, so I can do it if the day\nafter tomorrow works for you.\nA: You seem busy. OK then, I will\nask somebody else.\nI am sorry. I am swamped up\nto my neck at the moment.\nB:",
               "chinese": "A:参加者的名单,明天之前能完\n成吗?\nB:啊,不好意思。明天是提交申\n请书的截止日期,名单能不能\n后天交?\nA:看来你很忙啊。那我拜托别人\n好了。\nB:抱歉,我现在真是忙得不可开\n交。",
               "korean": "A: 참가자 명단 작성, 내일까지 부탁해\n도 될까?\nB: 죄송합니다. 신청서 마감이 내일까지\n라서요. 모레라도 괜찮으시면 하겠습\n니다。\nA: 바쁜가 보네. 그럼 됐고, 다른 사람한\n테 부탁하지。\nB: 죄송합니다. 지금 일손이 부족해서\n요。"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "6",
@@ -4520,14 +4520,14 @@
           },
           {
             "dialogue_number": "3",
-            "japanese_dialogue": "A: あれ? このリモコン、壊れてませんか?\nD B: あれ、さっき電池かえたのに?\nA:うん、変ですね。\nB: 電池の向きが違うのかな?",
+            "japanese_dialogue": "A: あれ? このリモコン、壊れてませんか?\nB: あれ、さっき電池かえたのに?\nA:うん、変ですね。\nB: 電池の向きが違うのかな?",
             "translations": {
               "english": "A: Oh? Isn't this remote control\nbroken?\nB: Really? I changed the battery a\nminute ago.\nA: Really, strange, isn't it?\nB: I wonder if the battery is facing\nthe wrong way.",
               "chinese": "A:咦?这个遥控器是不是坏了?\nB:咦?刚刚才换的电池啊\nA:有点奇怪。\nB:是不是电池装反了?",
               "korean": "A: 어? 이 리모컨 망가지지 않았어요?\nB: 어라? 금방 건전지를 바꿨는데?\nA: 응, 이상하네요。\nB: 넣는 방향이 다른가?"
             },
             "location": null,
-            "context": null
+            "context": "D"
           },
           {
             "dialogue_number": "4",
@@ -4581,14 +4581,14 @@
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A: もしもし? もしもし?\nCB: あー、スマホのバッテリーが切れそう。どうしよう。\nA: モバイルバッテリーとか持ってないの?\nB: あー、持ってる、持ってる!\nちょっと待ってて。",
+            "japanese_dialogue": "A: もしもし? もしもし?\nB: あー、スマホのバッテリーが切れそう。どうしよう。\nA: モバイルバッテリーとか持ってないの?\nB: あー、持ってる、持ってる!\nちょっと待ってて。",
             "translations": {
               "english": "2\nA: Hello? Hello?\nB: Oh no, the battery to my smart-\nphone is about to die. What am\nI going to do?\nA: Don't you have something like\na mobile battery?\nB:\nYeah, sure, I have it! Just hang\non a second.",
               "chinese": "A:喂?喂?\nB:啊 我手机快没电了。怎\n么办。\nA:你没有充电宝吗?\nB:啊,我有我有,你等我一下",
               "korean": "A: 여보세요? 여보세요?\nB: 아~폰 배터리가 떨어질 것 같아. 어\n쩌지?\nA: 보조 배터리 없어?\nB: 아~ 있어 있어! 잠깐만 있어 봐!"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "3",
@@ -4642,25 +4642,25 @@
         "dialogues": [
           {
             "dialogue_number": "1",
-            "japanese_dialogue": "A: もしもし。今日カットとシャンプーをお願いしたいんですが･･･。\nFB: はい、ご予約は何時ごろがよろしいでしょうか。\nA: そうですね、じゃ、3時でお願いできますか?\nB:はい。大丈夫です。お名前うかがえますか?",
+            "japanese_dialogue": "A: もしもし。今日カットとシャンプーをお願いしたいんですが･･･。\nB: はい、ご予約は何時ごろがよろしいでしょうか。\nA: そうですね、じゃ、3時でお願いできますか?\nB:はい。大丈夫です。お名前うかがえますか?",
             "translations": {
               "english": "Hello. I'd like to get a haircut\nand shampoo today...\nB:\nSure. What time would you like\nto make an appointment?\nA:\nLet me see, well, how about 3\no'clock?\nB: Sure. That is fine. May I have\nyour name?",
               "chinese": "A:喂?我想预约一下洗头和剪\n头。\nB:好的,您需要预约几点的呢?\nA:我想想,就3点吧。\nB:好的,没问题。请问您的名\n字是?",
               "korean": "A: 여보세요. 오늘 컷이랑 샴푸를 하고\n싶은데요....\nB: 네, 예약은 몇 시로 하시겠습니까?\nA: 그럼 3시에 가능한가요?\nB: 네, 가능합니다. 성함이 어떻게 되시\n나요?"
             },
             "location": "美容室で",
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A: 今日は、カット、どうなさいますか?\nFB: あの一、この写真の髪型みたいにできますか?\nA: ちょっとお借りします。はい。かしこまりました。\nB: お願いします。",
+            "japanese_dialogue": "A: 今日は、カット、どうなさいますか?\nB: あの一、この写真の髪型みたいにできますか?\nA: ちょっとお借りします。はい。かしこまりました。\nB: お願いします。",
             "translations": {
               "english": "2 A: How would you like to cut your\nhair?\nB: Well, can you make it like the\nhairstyle in this photo?\nA: Let me take a look. Yes. Certain-\nly.\nB: Please.",
               "chinese": "A:今天要剪一个什么发型?\nB:那个,可以剪成照片这样的\n吗?\nA:借看一下。好的,了解了。\nB:那拜托了。",
               "korean": "A: 오늘 것은 어떻게 하시겠어요?\nB: 저기...이 사진처럼 할 수 있을까요?\nA: 잠깐만 볼게요. 네, 알겠습니다。\nB: 부탁합니다。"
             },
             "location": "美容室で",
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "3",
@@ -4686,25 +4686,25 @@
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A:ヘー、草間彌生さんってこういう絵も描くんだ。面白いね。(パシャ)\nFB: すみません。フラッシュのご使用はご遠慮ください。\nA:あ、ごめんなさい。\nB: フラッシュなしでしたら、撮っていただいて結構です。",
+            "japanese_dialogue": "A:ヘー、草間彌生さんってこういう絵も描くんだ。面白いね。(パシャ)\nB: すみません。フラッシュのご使用はご遠慮ください。\nA:あ、ごめんなさい。\nB: フラッシュなしでしたら、撮っていただいて結構です。",
             "translations": {
               "english": "A: Wow, Yayoi Kusama draws\npaintings like this one. Interest-\ning, isn't it. (Snap.)\nB: Excuse me. Please refrain from\nusing the flash.\nA: Oh, I am sorry.\nB: You may take a photo if you\ndon't use the flash.",
               "chinese": "A:原来草间弥生画的画是这样\n的啊。真有意思。(拍照快\n门声)\nB:不好意思,请不要使用闪光\n灯。\nA:啊,抱歉。\nB:只要不开闪光灯就行,拍照\n是可以的。",
               "korean": "A: 구사마 야요이는 이런 그림을 그리는\n구나. 흥미롭다.(찰칵)\nB: 죄송한데 플래시는 사용하지 마세요。\nA: 죄송합니다。\nB: 플래시를 안 쓰시면 찍으셔도 됩니\n다。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "6",
-            "japanese_dialogue": "A: ピアノ、弾けるんだ。上手だね。僕も習ってたよ。3歳から。\nFB: え! すごいじゃん。\nA:うん。4歳までだけどね。長い時間、椅子に座ってられなくって。\nB: あー、想像できる。",
+            "japanese_dialogue": "A: ピアノ、弾けるんだ。上手だね。僕も習ってたよ。3歳から。\nB: え! すごいじゃん。\nA:うん。4歳までだけどね。長い時間、椅子に座ってられなくって。\nB: あー、想像できる。",
             "translations": {
               "english": "A: You can play the piano. You're\nvery good. I took lessons too.\nFrom 3 years old.\nB: Really? That's something.\nA: Yeah. Until 4 years old, mind\nyou. I couldn't sit at the chair\nfor a long time.\nB: Ah, I can imagine that.",
               "chinese": "A:你会弹钢琴啊,还弹得很好。\n我也学过,从3岁开始学的。\nB:诶!那很厉害啊!\nA:嗯。不过只学到4岁。我坐不\n住。\nB:啊,可以想象。",
               "korean": "A: 피아노 칠 줄 아는구나. 잘 치네. 나\n도 배웠었어. 세 살 때부터。\nB: 오 대단한데?\nA: 응. 네 살까지였지만. 오래 못 앉아 있\n었거든。\nB: 아~ 상상이 간다。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           }
         ]
       },
@@ -4736,14 +4736,14 @@
           },
           {
             "dialogue_number": "3",
-            "japanese_dialogue": "A: あの、このコタツ、アメリカで使いたいんですけど。\nFB:はい。こちらは120Vまで対応ですから、アメリカでしたら変換プラグが\nあればお使いいただけます。\nA: 変換プラグ?\nB:ええ。プラグの形が違うので。",
+            "japanese_dialogue": "A: あの、このコタツ、アメリカで使いたいんですけど。\nB:はい。こちらは120Vまで対応ですから、アメリカでしたら変換プラグが\nあればお使いいただけます。\nA: 変換プラグ?\nB:ええ。プラグの形が違うので。",
             "translations": {
               "english": "TAr a Home Appliances Store)\nA: Excuse me, I'd like to use this\nkotatsu in the U.S.A.\nB: Sure. This is compatible with up\nto 120V, so if you have a con-\nverter plug, you can use it there.\nA: A converter plug?\nB: Yes. The shape of the plug is\ndifferent.",
               "chinese": "(在家电卖场)\nA:那个,我想在美国用这个被\nB:这个被炉可以对应120V以下的\n电压,要在美国用的话,有插\n头转换器就可以。\nA:插头转换器?\nB:是的。因为插头的形状不一样",
               "korean": "(가전제품 매장에서)\nA: 이 고타쓰, 미국에서 쓰고 싶은데요。\nB: 네, 이건 120V까지 가능하니까, 미국\n은 변압기가 있으면 쓰실 수 있습니\n다。\nA: 변압기요?\nB: 네. 플러그 모양이 달라서요。"
             },
             "location": "家電売り場で",
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "4",
@@ -4769,14 +4769,14 @@
           },
           {
             "dialogue_number": "6",
-            "japanese_dialogue": "A: お伺いしておりますか?\nFB: えっ?\nあー、あのー、口座を作りたいんですが。\nA: ご新規ですね。では、こちらの番号札をお取りになってお待ちください。\nB:あ、はい。",
+            "japanese_dialogue": "A: お伺いしておりますか?\nB: えっ?\nあー、あのー、口座を作りたいんですが。\nA: ご新規ですね。では、こちらの番号札をお取りになってお待ちください。\nB:あ、はい。",
             "translations": {
               "english": "At the Bank)\nA:\nIs anyone helping you?\nB:\nOh? Well, I'd like to open an\naccount.\nA\n: A new account, right? In that\ncase, please take this number\nand wait for it to be called.\nB: Oh, yes, I see.",
               "chinese": "在银行\nA:已经有人问过您需要办理什么\n业务了吗?\nB:诶?啊,那个,我想开个户\nA:没有在我们这里开过户是吗?\n请您取个号稍等一下。\nB:啊,好的。",
               "korean": "(은행에서)\nA: 상담 기다리시는 중이신가요?\nB: 네? 저기…계좌를 만들고 싶어서요。\nA: 신규 말씀이시죠, 그럼 이 번호표를\n뽑고 기다려 주세요。\nB: 네。"
             },
             "location": "銀行で",
-            "context": null
+            "context": "F"
           }
         ]
       },
@@ -4819,14 +4819,14 @@
           },
           {
             "dialogue_number": "4",
-            "japanese_dialogue": "A:ねー、今度またディズニーランドに行こうよ。\nC B:え~。また〜。そのうちね。\nA: そのうちっていつ?\nB:うーん。そりゃ、そのうちは、そのうちだよ。",
+            "japanese_dialogue": "A:ねー、今度またディズニーランドに行こうよ。\nB:え~。また〜。そのうちね。\nA: そのうちっていつ?\nB:うーん。そりゃ、そのうちは、そのうちだよ。",
             "translations": {
               "english": "A: Hey, let's go to the Disneyland\nagain.\nB: What? Again? Some other time.\nA: When exactly is some other\ntime?\nB: Well, some other time is some\nother time.",
               "chinese": "A:我说,再去一次迪士尼吧!\nB:诶?还去?过段时间去吧。\nA:过段时间是什么时候?\nB:呃…………………反正就是过段时间去\n啦,过段时间。",
               "korean": "A: 있잖아. 다음에 다시 디즈니랜드에\n가자。\nB: 에~또? 조만간에 가자。\nA: 조만간이 언젠데?\nB: 음………. 조만간이 조만간이지。"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "5",
@@ -4869,14 +4869,14 @@
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A: すみません。Suicaを落としちゃったんですが。\nFB: お名前、生年月日など登録されていますか?\nA:はい。しています。\nB: では、再発行が可能ですが、なさいますか?",
+            "japanese_dialogue": "A: すみません。Suicaを落としちゃったんですが。\nB: お名前、生年月日など登録されていますか?\nA:はい。しています。\nB: では、再発行が可能ですが、なさいますか?",
             "translations": {
               "english": "(At the Station)\n2\nA:\nExcuse me. I dropped my Sui-\nca card.\nB: Have you registered your name,\ndate of birth, etc.?\nA:\nYes I have.\nB: In that case, we can reissue it;\nwould you like me to do that?",
               "chinese": "(在车站)\nA:不好意思打扰一下,我的Suica\n丢了。\nB:您有注册姓名和出生年月日\n吗?\nA:有的。\nB:那可以帮您补的,需要补办\n一张吗?",
               "korean": "(역에서)\nA: 저기요. Suica를 잃어버렸는데요。\nB: 이름, 생년월일은 등록하셨나요?\nA: 네. 했어요。\nB: 그럼 재발행이 가능한데 하시겠어요?"
             },
             "location": "駅で",
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "3",
@@ -5002,14 +5002,14 @@
         "dialogues": [
           {
             "dialogue_number": "1",
-            "japanese_dialogue": "A: あの一、初めてなんですけど。\nFB: はい。では、こちらの問診票にご記入ください。\nA: あのー、\n漢字が難しくて読めないんですけど･･･。\nB: じゃー、\n質問を読みますので、それに答えていただけますか。",
+            "japanese_dialogue": "A: あの一、初めてなんですけど。\nB: はい。では、こちらの問診票にご記入ください。\nA: あのー、\n漢字が難しくて読めないんですけど･･･。\nB: じゃー、\n質問を読みますので、それに答えていただけますか。",
             "translations": {
               "english": "在医院\n(At the Hospital\nA: Excuse me, it is my first visit...\nB:\nOK. Would you please fill in this\nregistration form?\nA:\nUm...Kanji is too difficult to\nread...\nB: OK, then I will read out the ques-\ntions, so please answer them.",
               "chinese": "(병원에서)\nA:那个,\n我是第一次来看病。\nB:好的。\n历表。\n那,请填一下这个病\nA:那个,这个汉字有点难,我\n看不懂\nB:那由我来问,请您直接回答\n可以吗?",
               "korean": "(병원에서)\nA: 오늘 처음 왔는데요。\nB: 네. 그럼 여기 문진표에 기입해 주세\n요。\nA: 저기, 한자가 어려워서 잘 못 읽거든\n요。\nB: 그럼, 질문을 읽을 테니까 대답해 주\n시겠어요?"
             },
             "location": "病院で",
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "2",
@@ -5046,14 +5046,14 @@
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A: なんだか最近寝ても疲れが取れないんだよねー。\nCB:あ、本当? 肩もんであげようか。",
+            "japanese_dialogue": "A: なんだか最近寝ても疲れが取れないんだよねー。\nB:あ、本当? 肩もんであげようか。",
             "translations": {
               "english": "5\nA: Recently I can't get rid of feel-\ning exhausted, even after I've\nslept.\nB: Oh, really? Shall I give you a\nshoulder massage?",
               "chinese": "A:最近总感觉不管怎么睡都还\n是很累。\nB:啊?真的吗?我帮你捏个肩?",
               "korean": "A: 이유는 모르겠지만 요즘 잠을 자도\n피곤이 안 풀려。\nB: 진짜? 어깨 주물러 줄까?"
             },
             "location": null,
-            "context": null
+            "context": "C"
           },
           {
             "dialogue_number": "6",
@@ -5074,58 +5074,58 @@
         "dialogues": [
           {
             "dialogue_number": "1",
-            "japanese_dialogue": "A: あのー、すみません、さくらハイツ202のエクトルですが。\nFB: こんにちは。お世話になっております。\nA: あのー、来月、国に帰るので部屋を解約したいんですが。\nB: はい。承知しました。何日をご予定ですか。",
+            "japanese_dialogue": "A: あのー、すみません、さくらハイツ202のエクトルですが。\nB: こんにちは。お世話になっております。\nA: あのー、来月、国に帰るので部屋を解約したいんですが。\nB: はい。承知しました。何日をご予定ですか。",
             "translations": {
               "english": "Ata Real Estate Agent)\nA: Excuse me, I am Hector from\nSakura heights 202.\nB: Hello. How are you.\n(lit. I am in\nyour debt.)\nA: Well, I am going home next\nmonth, so I'd like to cancel my\nlease for the room.\nB: OK. Certainly. Which date do\nyou plan to leave?",
               "chinese": "(在房屋中介)\nA:那个,不好意思打扰一下,\n我是住在Sakura Heights 202\n室的赫克托。\nB:你好。一直以来承蒙关照。\nA:那个,下个月,我要回国了,\n想把房子解约一下。\nB:好的,明白了。预计几号解\n约呢?",
               "korean": "(부동산에서)\nA: 저기, 실례합니다. 사쿠라 하이츠 202\n호에 사는 에쿠도르인데요。\nB: 안녕하세요. 잘 지내셨어요?\nA: 다음 달에 귀국을 해서 방을 해약하\n려고 하는데요。\nB: 네, 알겠습니다. 며칠에 나가시나요?"
             },
             "location": "不動産屋で",
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "2",
-            "japanese_dialogue": "A: 引っ越し当日まで電気、水道、ガスをご利用ですか?\nFB: はい。そのつもりです。連絡はどうすればいいですか?\nA: 連絡はこちらでしておきます。\nB:あ、ありがとうございます。お願いします。",
+            "japanese_dialogue": "A: 引っ越し当日まで電気、水道、ガスをご利用ですか?\nB: はい。そのつもりです。連絡はどうすればいいですか?\nA: 連絡はこちらでしておきます。\nB:あ、ありがとうございます。お願いします。",
             "translations": {
               "english": "2 A: Will you use the electricity, wa-\nter and gas until the day you\nmove out?\nB: Yes. I think so. What about con-\ntacting them?\nA: We will contact them for you.\nB: Oh, thank you very much. I'd\nappreciate it.",
               "chinese": "A:水电气一直用到搬家当天是\n吗?\nB:是的,我是这么打算的。我\n要联系哪里,怎么联系啊?\nA:我们这边会帮您联系好的。\nB:啊,谢谢。拜托了。",
               "korean": "A: 이사당일까지 전기, 수도, 가스는 이\n용하실 건가요?\nB: 네, 그럴 예정입니다. 연락은 어떻게\n하면 되나요?\nA: 연락은 저희가 해 놓을게요。\nB: 고맙습니다. 잘 부탁드려요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "3",
-            "japanese_dialogue": "A: いろいろお世話になりました。明日、国に帰ります。\nFB: そうですかー。寂しくなりますねー。\nA: ぜひ、遊びに来てください。ご案内しますから。\nB: ありがとうございます。ぜひ行きたいですね。",
+            "japanese_dialogue": "A: いろいろお世話になりました。明日、国に帰ります。\nB: そうですかー。寂しくなりますねー。\nA: ぜひ、遊びに来てください。ご案内しますから。\nB: ありがとうございます。ぜひ行きたいですね。",
             "translations": {
               "english": "A: Thank you very much for your\nkindness.\nI am going home to-\nmorrow.\nB: Is that so? We will miss you.\nA: By all means, please come and\nvisit me. I'll show you around.\nB: Thank you very much.\nI'd love\nto visit.",
               "chinese": "A:这些日子真是承蒙关照了。\n我明天就回国了。\nB:这样啊,感觉要寂寞了。\nA:请务必来玩呀,我来当向导。\nB:谢谢,有机会一定去。",
               "korean": "A: 그동안 신세 많이 졌습니다. 내일 귀\n국해요。\nB: 그렇군요. 쓸쓸해지겠어요。\nA: 꼭 놀러 오세요.\n안내해 드릴 테니까。\nB: 고마워요. 꼭 가고 싶어요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "4",
-            "japanese_dialogue": "A: あの、私の黒いスーツケースが、出て来ないんですが。\nFB: 便名はお分かりになりますか。\nA:あ、これ、飛行機のチケットです。それとこれが荷物の番号です。\nB: はい。バンコクから14時着のKS2便ですね。では、お調べします。",
+            "japanese_dialogue": "A: あの、私の黒いスーツケースが、出て来ないんですが。\nB: 便名はお分かりになりますか。\nA:あ、これ、飛行機のチケットです。それとこれが荷物の番号です。\nB: はい。バンコクから14時着のKS2便ですね。では、お調べします。",
             "translations": {
               "english": "(空港 手荷物受取所で)\nA: Excuse me, my black suitcase\nhasn't come out yet.\nB: Do you know what flight num-\nber it was.\nA: Oh, here, this is my airplane tick-\net. And this is the luggage num-\nber here.\nB: OK. It was flight no. KS2 that\narrived at 14:00. I will check it.",
               "chinese": "(在机场的行李提取处\nA:那个,我的黑色的行李箱没\n出来。\nB:您的航班号是多少?\nA:哦,这个是机票,这个和这\n个是行李编号。\nB:好的,从曼谷出发,14点抵达\n的KS2号航班对吗?我查一\n下。",
               "korean": "(공한 수화물 찾는 곳에서)\nA: 저기, 제 검은색 캐리어 가방이 안 나\n오는데요。\nB: 편명은 아세요?\nA: 아 이거 비행기 티켓이에요. 그리고\n이게 수화물 번호고요。\nB: 네. 방콕에서 14시 도착 KS2편이네\n요. 알아보겠습니다。"
             },
             "location": "空港 手荷物受取所で",
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "5",
-            "japanese_dialogue": "A:先生、ご無沙汰してます。\nFB: あれ!\nエクトルさん。久しぶりですね。卒業以来ですね。\nA:はい。出張で東京に来たので、いらっしゃるかなと思いまして。",
+            "japanese_dialogue": "A:先生、ご無沙汰してます。\nB: あれ!\nエクトルさん。久しぶりですね。卒業以来ですね。\nA:はい。出張で東京に来たので、いらっしゃるかなと思いまして。",
             "translations": {
               "english": "5 A: Professor, it's been a long time.\nB: Oh! Hector. It's been a long time.\nSince your graduation, hasn't it.\nA: Yes. I came to Tokyo on a busi-\nness trip and  wondered if you\nwere in.",
               "chinese": "A:老师,好久不见,别来无恙。\nB:咦?赫克托?好久不见啊。\n从你毕业以后就没见过面了\n吧。\nA:是的。我这次是到东京出差\nB:来的,还在想老师会不会在。",
               "korean": "A: 선생님, 오랜만이에요。\nB: 어? 에쿠도루상, 오랜만이네요. 졸업\n한 이후 처음이죠。\nA: 네.\n출장으로 도쿄에 온 김에 계실까\n하고 와 봤어요。"
             },
             "location": null,
-            "context": null
+            "context": "F"
           },
           {
             "dialogue_number": "6",
