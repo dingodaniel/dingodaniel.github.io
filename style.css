@@ -18,6 +18,7 @@ header a {
     text-decoration: none;
 }
 
+/* Rimuoviamo il padding-top diretto da 'main' qui */
 main {
     padding: 20px;
     max-width: 900px;
@@ -25,9 +26,15 @@ main {
     background-color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
-    /* AGGIUNTO/MODIFICATO: Padding per compensare il player fisso */
-    padding-top: 150px; /* Assicurati che questo valore sia sufficiente per il tuo player */
+    /* padding-top: 150px; <-- QUESTA LINEA È STATA RIMOSSA da qui */
 }
+
+/* Nuova regola CSS per applicare il padding-top solo a 'main' quando il player globale è presente */
+/* Questo selettore funzionerà solo sulla pagina unit.html perché è lì che #global-audio-player-container esiste */
+#global-audio-player-container + main {
+    padding-top: 150px; /* Applica il padding solo al main che segue direttamente il contenitore del player globale */
+}
+
 
 .unit-list {
     list-style: none;
@@ -52,7 +59,7 @@ main {
     background-color: #0056b3;
 }
 
-/* AGGIUNTO: Stili per il player audio fisso */
+/* Stili per il player audio fisso */
 #global-audio-player-container {
     position: fixed; /* Rende il contenitore fisso */
     top: 0;
@@ -116,11 +123,14 @@ main {
     margin-bottom: 15px;
 }
 
-/* MODIFICATO: Rimosso lo stile per l'audio diretto nelle sezioni, ora è gestito globalmente */
-/* audio {
-    width: 100%;
-    margin-bottom: 15px;
-} */
+.section h3 a { /* Stile per il link nel titolo della sezione */
+    text-decoration: none;
+    color: #4CAF50;
+}
+
+.section h3 a:hover {
+    text-decoration: underline;
+}
 
 .dialogue-list {
     display: flex;
