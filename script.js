@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Carica i dati dell'unità dal JSON
     async function loadUnitData(unitNumber) {
         try {
-            const response = await fetch('data/json.txt'); // Assicurati che il percorso sia corretto (data/data.json o data/json.txt)
+            const response = await fetch('data/data.json'); // Assicurati che il percorso sia corretto (data/data.json o data/json.txt)
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
