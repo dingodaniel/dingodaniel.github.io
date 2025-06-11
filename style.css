@@ -189,14 +189,6 @@ main {
     color: #28a745; /* Green for English */
 }
 
-.translations .chinese {
-    color: #ffc107; /* Yellow/Orange for Chinese */
-}
-
-.translations .korean {
-    color: #17a2b8; /* Cyan for Korean */
-}
-
 footer {
     text-align: center;
     padding: 1em 0;
