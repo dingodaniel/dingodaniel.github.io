@@ -50,58 +50,6 @@ main {
     background-color: #0056b3;
 }
 
-/* Stili per il player audio fisso */
-#global-audio-player-container {
-    position: fixed; /* Rende il contenitore fisso */
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #f4f4f4; /* Colore di sfondo per coprire il contenuto sottostante */
-    padding: 10px 20px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    z-index: 1000; /* Assicura che sia sempre sopra gli altri elementi */
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    border-bottom-left-radius: 8px;
-    border-bottom-right-radius: 8px;
-}
-
-#global-audio-player {
-    width: 80%; /* Riduci la larghezza se preferisci */
-    margin-top: 10px;
-}
-
-#global-audio-player-container h3 {
-    color: #4CAF50;
-    margin-bottom: 5px;
-    text-align: center;
-}
-
-#audio-controls {
-    margin-top: 10px;
-}
-
-#audio-controls button {
-    background-color: #007bff;
-    color: white;
-    border: none;
-    padding: 8px 15px;
-    margin: 0 5px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-#audio-controls button:hover {
-    background-color: #0056b3;
-}
-
-main {
-    padding-top: 150px; /* Aggiungi padding alla main per compensare il player fisso */
-}
-
-/* Stili per le sezioni e dialoghi */
 .section {
     border: 1px solid #ddd;
     padding: 15px;
@@ -118,13 +66,9 @@ main {
     margin-bottom: 15px;
 }
 
-.section h3 a { /* Stile per il link nel titolo della sezione */
-    text-decoration: none;
-    color: #4CAF50;
-}
-
-.section h3 a:hover {
-    text-decoration: underline;
+audio {
+    width: 100%;
+    margin-bottom: 15px;
 }
 
 .dialogue-list {
